@@ -1,4 +1,4 @@
 var katzDeliLine = []
-function takeNumber(people,personName){
+function takeNumber(katzDeliLine,personName){
   
 }
