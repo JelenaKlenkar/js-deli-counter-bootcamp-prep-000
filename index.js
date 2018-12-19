@@ -22,5 +22,6 @@ function currentLine(katzDeli){
   if (katzeDeliLine === ["Ada", "Grace"]){
     return "The line is currently: 1. Ada, 2. Grace";
   }
-  else if(katzeDeliLine===0)
+  else if(katzeDeliLine===[0]);
+  return 
 }
