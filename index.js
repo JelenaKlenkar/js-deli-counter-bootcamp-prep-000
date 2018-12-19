@@ -23,5 +23,5 @@ function currentLine(katzDeli){
     return "The line is currently: 1. Ada, 2. Grace";
   }
   else if(katzeDeliLine===[0]);
-  return 
+  return "The line is currently empty."
 }
