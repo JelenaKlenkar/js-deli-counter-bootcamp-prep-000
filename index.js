@@ -19,7 +19,7 @@ function nowServing(katzDeli){
 }
 
 function currentLine(katzDeli){
-  if (katzeDeliLine === ["Ada", "Grace"]){
+  if (katzeDeli === ["Ada", "Grace"]){
     return "The line is currently: 1. Ada, 2. Grace";
   }
   else if(katzeDeli.length===[0]);
