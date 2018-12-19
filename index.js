@@ -19,5 +19,5 @@ function nowServing(katzDeli){
 }
 
 function currentLine(katzDeli){
-  
+  if (katzeDeliLine = ["Ada", "Grace"]
 }
